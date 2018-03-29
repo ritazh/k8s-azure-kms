@@ -1,6 +1,8 @@
 # k8s-azure-kms #
 
-Azure KMS plugin for Kubernetes - Enable encryption of eecret data at rest in Kubernetes using Azure Key Vault
+Azure KMS plugin for Kubernetes - Enable encryption of secret data at rest in Kubernetes using Azure Key Vault
+
+> :triangular_flag_on_post: NOTE: THIS REPO HAS BEEN MOVED UNDER AZURE. PLEASE USE [Azure/kubernetes-kms](https://github.com/Azure/kubernetes-kms) INSTEAD.
 
 **Project Status**: Alpha
 
